@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/sig-storage/csi-resizer:v1.3.0
+FROM k8s.gcr.io/sig-storage/csi-resizer:v1.4.0
 MAINTAINER Q
